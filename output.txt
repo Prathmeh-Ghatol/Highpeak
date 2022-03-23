@@ -1,0 +1,51 @@
+TEST CASE 1:
+Enter the number of employees
+2
+Number of the employees:2
+Here the goodies that are selected for distribution are:
+Microwave Oven: 9800
+Alexa: 9999
+
+And the difference between the chosen goodies with highest price and the lowest price is:199
+
+
+Process finished with exit code 0
+
+
+
+TEST CASE 2:
+"C:\Program Files\Java\jdk-17.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\lib\idea_rt.jar=60585:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\ghato\IdeaProjects\untitled1\out\production\untitled1 com.company.Main
+Enter the number of employees
+3
+Number of the employees:3
+Here the goodies that are selected for distribution are:
+Microwave Oven: 9800
+Alexa: 9999
+Digital Camera: 11101
+
+
+And the difference between the chosen goodies with highest price and the lowest price is:1301
+
+Process finished with exit code 0
+
+
+
+
+TEST CASE 3:
+"C:\Program Files\Java\jdk-17.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\lib\idea_rt.jar=60589:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\ghato\IdeaProjects\untitled1\out\production\untitled1 com.company.Main
+Enter the number of employees
+7
+Number of the employees:7
+Here the goodies that are selected for distribution are:
+Sandwich Toaster: 2195
+Cult Pass: 2799
+Scale: 4999
+Fitbit Plus: 7980
+Microwave Oven: 9800
+Alexa: 9999
+Digital Camera: 11101
+
+
+And the difference between the chosen goodies with highest price and the lowest price is:8906
+
+Process finished with exit code 0
